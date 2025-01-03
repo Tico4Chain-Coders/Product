@@ -39,8 +39,8 @@ Trustless Work builds on **Stellar’s Soroban** smart contract platform, combin
 * A smart escrow is configured using Trustless Work’s API.
 * Key parameters include:
   * **Amount**: The value being held.
-  * **Parties**: Sender, receiver, and signer.
-  * **Conditions**: Rules for releasing funds.
+  * **Roles**: Learn more about roles [here](../developer-resources/escrow-design/roles.md)
+  * **Milestones**: Rules for releasing funds.
 
 #### **2. Funding**
 
@@ -49,17 +49,18 @@ Trustless Work builds on **Stellar’s Soroban** smart contract platform, combin
 
 #### **3. Milestone Updates**
 
-* The service provider or recipient updates the escrow status (e.g., work completed, milestone met).
+* The service provider updates the escrow status.
 
 #### **4. Approval or Dispute**
 
-* The payer or a designated signer approves the release of funds.
-* In case of disputes, the escrow holds the funds until the issue is resolved.
+* The client approves the release of funds.
+* In case of disputes, the escrow holds the funds until the issue is resolved by Dispute Resolver.
 
 #### **5. Release**
 
 * Once conditions are met, funds are released to the recipient.
-* A small fee (e.g., 0.3%-0.5%) is deducted as a commission for Trustless Work.
+* A small fee (0.3%) is deducted as a commission for Trustless Work.
+* Extra Fee can be configured for the platform.&#x20;
 
 ***
 
@@ -94,6 +95,6 @@ Trustless Work builds on **Stellar’s Soroban** smart contract platform, combin
 
 ### **Next Steps**
 
-* Dive deeper into How Trustless Work Operates.
-* Explore API Reference to see how to implement these concepts in your platform.
-* Learn about real-world Use Cases where Trustless Work is already making an impact.
+* Dive deeper in our [Technolgy Overview.](../technology-overview/)
+* Explore [API Reference](../developer-resources/api-reference/) to see how to implement these concepts in your platform.
+* Learn about [Use Cases](../use-cases-unlocking-the-potential-of-smart-escrows/).

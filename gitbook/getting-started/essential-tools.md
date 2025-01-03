@@ -21,7 +21,6 @@ To interact with Trustless Work and the Stellar blockchain, you’ll need a wall
 * **Lobstr Wallet**\
   A user-friendly wallet for managing Stellar assets. Ideal for non-technical users.\
   [Get Lobstr](https://lobstr.co)
-*
 
 ***
 

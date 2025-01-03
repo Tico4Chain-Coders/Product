@@ -67,7 +67,7 @@
   * [How to Integrate](business-and-platform-onboarding/how-to-integrate.md)
   * [Case Studies](business-and-platform-onboarding/case-studies.md)
 * [Community and Roadmap](community-and-roadmap/README.md)
-  * [Community Initiatives](community-and-roadmap/community-initiatives.md)
+  * [Community](community-and-roadmap/community.md)
   * [🛣️ Roadmap: The Journey Ahead](community-and-roadmap/roadmap-the-journey-ahead.md)
   * [Get Involved](community-and-roadmap/get-involved.md)
 * [🔍 Historical Context](historical-context/README.md)
