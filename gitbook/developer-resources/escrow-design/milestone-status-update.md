@@ -32,7 +32,7 @@ At this stage, the **Approved Flag** remains set to `False`, as the client (e.g.
    * **Default = False:** Remains unchanged until explicitly approved or disputed by the client.
 3. **Updated Event:**
    * The escrow contract emits an event, notifying all participants of the milestone update.
-4. **Progress Details:**
+4. **Progress Details (to be added):**
    * Optional fields can include:
      * Delivery notes.
      * Evidence of completion (e.g., reference IDs or uploaded documentation).

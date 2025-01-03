@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/approval_phase.png" alt=""><figcaption></figcaption></figure>
 
-The Approval Phase is where the client (e.g., Alice) reviews the milestone marked as **Done** by the service provider (e.g., Bob). The client must decide whether to approve or dispute the milestone based on the deliverable provided. This decision determines the next steps in the escrow process, transitioning the transaction toward completion or dispute resolution.
+The Approval Phase is where the client (e.g., Alice) reviews the milestone marked as **For Review** by the service provider (e.g., Bob). The client must decide whether to approve or dispute the milestone based on the deliverable provided. This decision determines the next steps in the escrow process, transitioning the transaction toward completion or dispute resolution.
 
 ***
 

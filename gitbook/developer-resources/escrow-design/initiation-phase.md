@@ -2,7 +2,7 @@
 
 <div data-full-width="true"><figure><img src="../../.gitbook/assets/Initiation_phase_lite.png" alt=""><figcaption></figcaption></figure></div>
 
-### **nitiation Phase: Setting Up for Success**
+### **Initiation Phase: Setting Up for Success**
 
 The Initiation Phase serves as the starting point for any escrow process. During this phase, the smart escrow contract is created and configured with all necessary details, ensuring transparency, clear role assignments, and a shared understanding of the transaction's terms. This lays the groundwork for a secure and efficient process.
 
